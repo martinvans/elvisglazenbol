@@ -28,8 +28,8 @@ avatar: "/img/GlazenBol.jpg"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "aboutme"
-  Author's home: "http://elvisglazenbol.nl"
+  Over Elvis: "aboutme"
+  Ambrozijn: "http://elvisglazenbol.nl/shiny"
   
 # --- Footer options --- #
 
